@@ -1,0 +1,3896 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2019-09-20T07:10:43.747+07:00
+  initializedAtString: 2019-09-20T06:35:23.699+07:00
+  log:
+  - commitID: 4cb99e8141e380fe038f39b4e5f5e0397b486079
+    mergeA: 
+    mergeB: 
+    authorName: Habib Yahya
+    authorEmail: nmh.habib.y@gmail.com
+    commitEmail: nmh.habib.y@gmail.com
+    commitName: Habib Yahya
+    summary: test
+    description: 
+    timeString: 2019-09-20T07:07:29.000+07:00
+    commitTimeString: 2019-09-20T07:07:29.000+07:00
+    changes:
+    - path: ProjectSettings\AudioManager.asset
+      fullPath: D:\Game Dev\10 Nopember\ProjectSettings\AudioManager.asset
+      projectPath: ProjectSettings\AudioManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ClusterInputManager.asset
+      fullPath: D:\Game Dev\10 Nopember\ProjectSettings\ClusterInputManager.asset
+      projectPath: ProjectSettings\ClusterInputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\DynamicsManager.asset
+      fullPath: D:\Game Dev\10 Nopember\ProjectSettings\DynamicsManager.asset
+      projectPath: ProjectSettings\DynamicsManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorBuildSettings.asset
+      fullPath: D:\Game Dev\10 Nopember\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorSettings.asset
+      fullPath: D:\Game Dev\10 Nopember\ProjectSettings\EditorSettings.asset
+      projectPath: ProjectSettings\EditorSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\GraphicsSettings.asset
+      fullPath: D:\Game Dev\10 Nopember\ProjectSettings\GraphicsSettings.asset
+      projectPath: ProjectSettings\GraphicsSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\InputManager.asset
+      fullPath: D:\Game Dev\10 Nopember\ProjectSettings\InputManager.asset
+      projectPath: ProjectSettings\InputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\NavMeshAreas.asset
+      fullPath: D:\Game Dev\10 Nopember\ProjectSettings\NavMeshAreas.asset
+      projectPath: ProjectSettings\NavMeshAreas.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\Physics2DSettings.asset
+      fullPath: D:\Game Dev\10 Nopember\ProjectSettings\Physics2DSettings.asset
+      projectPath: ProjectSettings\Physics2DSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\PresetManager.asset
+      fullPath: D:\Game Dev\10 Nopember\ProjectSettings\PresetManager.asset
+      projectPath: ProjectSettings\PresetManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectSettings.asset
+      fullPath: D:\Game Dev\10 Nopember\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectVersion.txt
+      fullPath: D:\Game Dev\10 Nopember\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\QualitySettings.asset
+      fullPath: D:\Game Dev\10 Nopember\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: D:\Game Dev\10 Nopember\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TimeManager.asset
+      fullPath: D:\Game Dev\10 Nopember\ProjectSettings\TimeManager.asset
+      projectPath: ProjectSettings\TimeManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\UnityConnectSettings.asset
+      fullPath: D:\Game Dev\10 Nopember\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\VFXManager.asset
+      fullPath: D:\Game Dev\10 Nopember\ProjectSettings\VFXManager.asset
+      projectPath: ProjectSettings\VFXManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\XRSettings.asset
+      fullPath: D:\Game Dev\10 Nopember\ProjectSettings\XRSettings.asset
+      projectPath: ProjectSettings\XRSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: b1616eb73e7fea6d9d22b35ffafc7444d5de9d5c
+    mergeA: 
+    mergeB: 
+    authorName: Habib Yahya
+    authorEmail: nmh.habib.y@gmail.com
+    commitEmail: nmh.habib.y@gmail.com
+    commitName: Habib Yahya
+    summary: Car movement done
+    description: 
+    timeString: 2019-09-20T07:01:24.000+07:00
+    commitTimeString: 2019-09-20T07:01:24.000+07:00
+    changes:
+    - path: Assets\EasyRoads3D scenes.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D scenes.meta
+      projectPath: Assets\EasyRoads3D scenes.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D scenes\EasyRoads3D Terrain.asset
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D scenes\EasyRoads3D Terrain.asset
+      projectPath: Assets\EasyRoads3D scenes\EasyRoads3D Terrain.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D scenes\EasyRoads3D Terrain.asset.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D scenes\EasyRoads3D Terrain.asset.meta
+      projectPath: Assets\EasyRoads3D scenes\EasyRoads3D Terrain.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D scenes\test scene.unity
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D scenes\test scene.unity
+      projectPath: Assets\EasyRoads3D scenes\test scene.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D scenes\test scene.unity.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D scenes\test scene.unity.meta
+      projectPath: Assets\EasyRoads3D scenes\test scene.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D.meta
+      projectPath: Assets\EasyRoads3D.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\Editor.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\Editor.meta
+      projectPath: Assets\EasyRoads3D\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\Editor\EasyRoads3Dv3Editor.dll
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\Editor\EasyRoads3Dv3Editor.dll
+      projectPath: Assets\EasyRoads3D\Editor\EasyRoads3Dv3Editor.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\Editor\EasyRoads3Dv3Editor.dll.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\Editor\EasyRoads3Dv3Editor.dll.meta
+      projectPath: Assets\EasyRoads3D\Editor\EasyRoads3Dv3Editor.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\Materials.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\Materials.meta
+      projectPath: Assets\EasyRoads3D\Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\Materials\roadsample_d.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\Materials\roadsample_d.mat
+      projectPath: Assets\EasyRoads3D\Materials\roadsample_d.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\Materials\roadsample_d.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\Materials\roadsample_d.mat.meta
+      projectPath: Assets\EasyRoads3D\Materials\roadsample_d.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\Resources.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\Resources.meta
+      projectPath: Assets\EasyRoads3D\Resources.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\Resources\ER Road Network.prefab
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\Resources\ER Road Network.prefab
+      projectPath: Assets\EasyRoads3D\Resources\ER Road Network.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\Resources\ER Road Network.prefab.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\Resources\ER Road Network.prefab.meta
+      projectPath: Assets\EasyRoads3D\Resources\ER Road Network.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\Resources\ERProRoad.prefab
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\Resources\ERProRoad.prefab
+      projectPath: Assets\EasyRoads3D\Resources\ERProRoad.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\Resources\ERProRoad.prefab.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\Resources\ERProRoad.prefab.meta
+      projectPath: Assets\EasyRoads3D\Resources\ERProRoad.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\Resources\ERProjectLog.prefab
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\Resources\ERProjectLog.prefab
+      projectPath: Assets\EasyRoads3D\Resources\ERProjectLog.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\Resources\ERProjectLog.prefab.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\Resources\ERProjectLog.prefab.meta
+      projectPath: Assets\EasyRoads3D\Resources\ERProjectLog.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\Resources\ERSideObjectsLog.prefab
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\Resources\ERSideObjectsLog.prefab
+      projectPath: Assets\EasyRoads3D\Resources\ERSideObjectsLog.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\Resources\ERSideObjectsLog.prefab.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\Resources\ERSideObjectsLog.prefab.meta
+      projectPath: Assets\EasyRoads3D\Resources\ERSideObjectsLog.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\Resources\Materials.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\Resources\Materials.meta
+      projectPath: Assets\EasyRoads3D\Resources\Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\Resources\Materials\crossings.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\Resources\Materials\crossings.meta
+      projectPath: Assets\EasyRoads3D\Resources\Materials\crossings.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\Resources\Materials\crossings\crossing material.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\Resources\Materials\crossings\crossing
+        material.mat
+      projectPath: Assets\EasyRoads3D\Resources\Materials\crossings\crossing material.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\Resources\Materials\crossings\crossing material.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\Resources\Materials\crossings\crossing
+        material.mat.meta
+      projectPath: Assets\EasyRoads3D\Resources\Materials\crossings\crossing material.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\Resources\Materials\crossings\road X sidewalks.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\Resources\Materials\crossings\road
+        X sidewalks.mat
+      projectPath: Assets\EasyRoads3D\Resources\Materials\crossings\road X sidewalks.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\Resources\Materials\crossings\road X sidewalks.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\Resources\Materials\crossings\road
+        X sidewalks.mat.meta
+      projectPath: Assets\EasyRoads3D\Resources\Materials\crossings\road X sidewalks.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\Resources\Materials\roads.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\Resources\Materials\roads.meta
+      projectPath: Assets\EasyRoads3D\Resources\Materials\roads.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\Resources\Materials\roads\dirt material.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\Resources\Materials\roads\dirt
+        material.mat
+      projectPath: Assets\EasyRoads3D\Resources\Materials\roads\dirt material.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\Resources\Materials\roads\dirt material.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\Resources\Materials\roads\dirt
+        material.mat.meta
+      projectPath: Assets\EasyRoads3D\Resources\Materials\roads\dirt material.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\Resources\Materials\roads\road material.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\Resources\Materials\roads\road
+        material.mat
+      projectPath: Assets\EasyRoads3D\Resources\Materials\roads\road material.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\Resources\Materials\roads\road material.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\Resources\Materials\roads\road
+        material.mat.meta
+      projectPath: Assets\EasyRoads3D\Resources\Materials\roads\road material.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\Resources\Materials\roundabouts.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\Resources\Materials\roundabouts.meta
+      projectPath: Assets\EasyRoads3D\Resources\Materials\roundabouts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\Resources\Materials\roundabouts\roundabout 2 lane.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\Resources\Materials\roundabouts\roundabout
+        2 lane.mat
+      projectPath: Assets\EasyRoads3D\Resources\Materials\roundabouts\roundabout 2
+        lane.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\Resources\Materials\roundabouts\roundabout 2 lane.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\Resources\Materials\roundabouts\roundabout
+        2 lane.mat.meta
+      projectPath: Assets\EasyRoads3D\Resources\Materials\roundabouts\roundabout 2
+        lane.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\Resources\Materials\roundabouts\roundaboutconnect 1.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\Resources\Materials\roundabouts\roundaboutconnect
+        1.mat
+      projectPath: Assets\EasyRoads3D\Resources\Materials\roundabouts\roundaboutconnect
+        1.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\Resources\Materials\roundabouts\roundaboutconnect 1.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\Resources\Materials\roundabouts\roundaboutconnect
+        1.mat.meta
+      projectPath: Assets\EasyRoads3D\Resources\Materials\roundabouts\roundaboutconnect
+        1.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\Resources\Materials\sidewalks.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\Resources\Materials\sidewalks.meta
+      projectPath: Assets\EasyRoads3D\Resources\Materials\sidewalks.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\Resources\Materials\sidewalks\sidewalk 1.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\Resources\Materials\sidewalks\sidewalk
+        1.mat
+      projectPath: Assets\EasyRoads3D\Resources\Materials\sidewalks\sidewalk 1.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\Resources\Materials\sidewalks\sidewalk 1.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\Resources\Materials\sidewalks\sidewalk
+        1.mat.meta
+      projectPath: Assets\EasyRoads3D\Resources\Materials\sidewalks\sidewalk 1.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\Resources\Materials\sidewalks\sidewalk.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\Resources\Materials\sidewalks\sidewalk.mat
+      projectPath: Assets\EasyRoads3D\Resources\Materials\sidewalks\sidewalk.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\Resources\Materials\sidewalks\sidewalk.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\Resources\Materials\sidewalks\sidewalk.mat.meta
+      projectPath: Assets\EasyRoads3D\Resources\Materials\sidewalks\sidewalk.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\Resources\Materials\surfaceMaterial.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\Resources\Materials\surfaceMaterial.mat
+      projectPath: Assets\EasyRoads3D\Resources\Materials\surfaceMaterial.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\Resources\Materials\surfaceMaterial.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\Resources\Materials\surfaceMaterial.mat.meta
+      projectPath: Assets\EasyRoads3D\Resources\Materials\surfaceMaterial.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\Resources\custom prefabs.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\Resources\custom prefabs.meta
+      projectPath: Assets\EasyRoads3D\Resources\custom prefabs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\Resources\custom prefabs\_custom prefabs.txt
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\Resources\custom prefabs\_custom
+        prefabs.txt
+      projectPath: Assets\EasyRoads3D\Resources\custom prefabs\_custom prefabs.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\Resources\custom prefabs\_custom prefabs.txt.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\Resources\custom prefabs\_custom
+        prefabs.txt.meta
+      projectPath: Assets\EasyRoads3D\Resources\custom prefabs\_custom prefabs.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\Resources\dynamic prefabs.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\Resources\dynamic prefabs.meta
+      projectPath: Assets\EasyRoads3D\Resources\dynamic prefabs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\Resources\dynamic prefabs\dynamic prefabs.txt
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\Resources\dynamic prefabs\dynamic
+        prefabs.txt
+      projectPath: Assets\EasyRoads3D\Resources\dynamic prefabs\dynamic prefabs.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\Resources\dynamic prefabs\dynamic prefabs.txt.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\Resources\dynamic prefabs\dynamic
+        prefabs.txt.meta
+      projectPath: Assets\EasyRoads3D\Resources\dynamic prefabs\dynamic prefabs.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\_Release Notes.txt
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\_Release Notes.txt
+      projectPath: Assets\EasyRoads3D\_Release Notes.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\_Release Notes.txt.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\_Release Notes.txt.meta
+      projectPath: Assets\EasyRoads3D\_Release Notes.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\_manualv3.html
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\_manualv3.html
+      projectPath: Assets\EasyRoads3D\_manualv3.html
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\_manualv3.html.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\_manualv3.html.meta
+      projectPath: Assets\EasyRoads3D\_manualv3.html.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\_readme .txt
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\_readme .txt
+      projectPath: Assets\EasyRoads3D\_readme .txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\_readme .txt.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\_readme .txt.meta
+      projectPath: Assets\EasyRoads3D\_readme .txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\html.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\html.meta
+      projectPath: Assets\EasyRoads3D\html.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\html\ERConnection.html
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\html\ERConnection.html
+      projectPath: Assets\EasyRoads3D\html\ERConnection.html
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\html\ERConnection.html.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\html\ERConnection.html.meta
+      projectPath: Assets\EasyRoads3D\html\ERConnection.html.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\html\ERConnectionData.html
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\html\ERConnectionData.html
+      projectPath: Assets\EasyRoads3D\html\ERConnectionData.html
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\html\ERConnectionData.html.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\html\ERConnectionData.html.meta
+      projectPath: Assets\EasyRoads3D\html\ERConnectionData.html.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\html\EREditor.html
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\html\EREditor.html
+      projectPath: Assets\EasyRoads3D\html\EREditor.html
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\html\EREditor.html.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\html\EREditor.html.meta
+      projectPath: Assets\EasyRoads3D\html\EREditor.html.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\html\ERRoad.html
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\html\ERRoad.html
+      projectPath: Assets\EasyRoads3D\html\ERRoad.html
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\html\ERRoad.html.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\html\ERRoad.html.meta
+      projectPath: Assets\EasyRoads3D\html\ERRoad.html.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\html\ERRoadNetwork.html
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\html\ERRoadNetwork.html
+      projectPath: Assets\EasyRoads3D\html\ERRoadNetwork.html
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\html\ERRoadNetwork.html.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\html\ERRoadNetwork.html.meta
+      projectPath: Assets\EasyRoads3D\html\ERRoadNetwork.html.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\html\ERRoadType.html
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\html\ERRoadType.html
+      projectPath: Assets\EasyRoads3D\html\ERRoadType.html
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\html\ERRoadType.html.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\html\ERRoadType.html.meta
+      projectPath: Assets\EasyRoads3D\html\ERRoadType.html.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\html\creating_roads.html
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\html\creating_roads.html
+      projectPath: Assets\EasyRoads3D\html\creating_roads.html
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\html\creating_roads.html.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\html\creating_roads.html.meta
+      projectPath: Assets\EasyRoads3D\html\creating_roads.html.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\html\general_settings.html
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\html\general_settings.html
+      projectPath: Assets\EasyRoads3D\html\general_settings.html
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\html\general_settings.html.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\html\general_settings.html.meta
+      projectPath: Assets\EasyRoads3D\html\general_settings.html.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\html\general_workflow.html
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\html\general_workflow.html
+      projectPath: Assets\EasyRoads3D\html\general_workflow.html
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\html\general_workflow.html.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\html\general_workflow.html.meta
+      projectPath: Assets\EasyRoads3D\html\general_workflow.html.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\html\getting_started.html
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\html\getting_started.html
+      projectPath: Assets\EasyRoads3D\html\getting_started.html
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\html\getting_started.html.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\html\getting_started.html.meta
+      projectPath: Assets\EasyRoads3D\html\getting_started.html.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\html\hierarchy.html
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\html\hierarchy.html
+      projectPath: Assets\EasyRoads3D\html\hierarchy.html
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\html\hierarchy.html.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\html\hierarchy.html.meta
+      projectPath: Assets\EasyRoads3D\html\hierarchy.html.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\html\intersections.html
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\html\intersections.html
+      projectPath: Assets\EasyRoads3D\html\intersections.html
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\html\intersections.html.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\html\intersections.html.meta
+      projectPath: Assets\EasyRoads3D\html\intersections.html.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\html\known_issues.html
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\html\known_issues.html
+      projectPath: Assets\EasyRoads3D\html\known_issues.html
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\html\known_issues.html.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\html\known_issues.html.meta
+      projectPath: Assets\EasyRoads3D\html\known_issues.html.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\html\materials.html
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\html\materials.html
+      projectPath: Assets\EasyRoads3D\html\materials.html
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\html\materials.html.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\html\materials.html.meta
+      projectPath: Assets\EasyRoads3D\html\materials.html.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\html\package.html
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\html\package.html
+      projectPath: Assets\EasyRoads3D\html\package.html
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\html\package.html.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\html\package.html.meta
+      projectPath: Assets\EasyRoads3D\html\package.html.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\html\quick_start.html
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\html\quick_start.html
+      projectPath: Assets\EasyRoads3D\html\quick_start.html
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\html\quick_start.html.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\html\quick_start.html.meta
+      projectPath: Assets\EasyRoads3D\html\quick_start.html.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\html\release_notes.html
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\html\release_notes.html
+      projectPath: Assets\EasyRoads3D\html\release_notes.html
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\html\release_notes.html.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\html\release_notes.html.meta
+      projectPath: Assets\EasyRoads3D\html\release_notes.html.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\html\resources_contact.html
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\html\resources_contact.html
+      projectPath: Assets\EasyRoads3D\html\resources_contact.html
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\html\resources_contact.html.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\html\resources_contact.html.meta
+      projectPath: Assets\EasyRoads3D\html\resources_contact.html.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\html\scene.html
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\html\scene.html
+      projectPath: Assets\EasyRoads3D\html\scene.html
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\html\scene.html.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\html\scene.html.meta
+      projectPath: Assets\EasyRoads3D\html\scene.html.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\html\scriptingAPI.html
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\html\scriptingAPI.html
+      projectPath: Assets\EasyRoads3D\html\scriptingAPI.html
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\html\scriptingAPI.html.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\html\scriptingAPI.html.meta
+      projectPath: Assets\EasyRoads3D\html\scriptingAPI.html.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\html\shortcuts.html
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\html\shortcuts.html
+      projectPath: Assets\EasyRoads3D\html\shortcuts.html
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\html\shortcuts.html.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\html\shortcuts.html.meta
+      projectPath: Assets\EasyRoads3D\html\shortcuts.html.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\html\side_objects.html
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\html\side_objects.html
+      projectPath: Assets\EasyRoads3D\html\side_objects.html
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\html\side_objects.html.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\html\side_objects.html.meta
+      projectPath: Assets\EasyRoads3D\html\side_objects.html.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\html\terrain_control.html
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\html\terrain_control.html
+      projectPath: Assets\EasyRoads3D\html\terrain_control.html
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\html\terrain_control.html.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\html\terrain_control.html.meta
+      projectPath: Assets\EasyRoads3D\html\terrain_control.html.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\html\toolbar.html
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\html\toolbar.html
+      projectPath: Assets\EasyRoads3D\html\toolbar.html
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\html\toolbar.html.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\html\toolbar.html.meta
+      projectPath: Assets\EasyRoads3D\html\toolbar.html.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\html\troubleshooting.html
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\html\troubleshooting.html
+      projectPath: Assets\EasyRoads3D\html\troubleshooting.html
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\html\troubleshooting.html.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\html\troubleshooting.html.meta
+      projectPath: Assets\EasyRoads3D\html\troubleshooting.html.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images.meta
+      projectPath: Assets\EasyRoads3D\images.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\CrossingsInspector.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\CrossingsInspector.jpg
+      projectPath: Assets\EasyRoads3D\images\CrossingsInspector.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\CrossingsInspector.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\CrossingsInspector.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\CrossingsInspector.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\IConnector.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\IConnector.jpg
+      projectPath: Assets\EasyRoads3D\images\IConnector.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\IConnector.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\IConnector.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\IConnector.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\Thumbs.db
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\Thumbs.db
+      projectPath: Assets\EasyRoads3D\images\Thumbs.db
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\Thumbs.db.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\Thumbs.db.meta
+      projectPath: Assets\EasyRoads3D\images\Thumbs.db.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\alder.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\alder.jpg
+      projectPath: Assets\EasyRoads3D\images\alder.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\alder.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\alder.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\alder.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\camMode.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\camMode.jpg
+      projectPath: Assets\EasyRoads3D\images\camMode.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\camMode.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\camMode.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\camMode.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\connectionProperties.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\connectionProperties.jpg
+      projectPath: Assets\EasyRoads3D\images\connectionProperties.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\connectionProperties.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\connectionProperties.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\connectionProperties.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\connectionSettings.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\connectionSettings.jpg
+      projectPath: Assets\EasyRoads3D\images\connectionSettings.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\connectionSettings.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\connectionSettings.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\connectionSettings.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\copyFromExisiting.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\copyFromExisiting.jpg
+      projectPath: Assets\EasyRoads3D\images\copyFromExisiting.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\copyFromExisiting.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\copyFromExisiting.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\copyFromExisiting.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\createnetwork.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\createnetwork.jpg
+      projectPath: Assets\EasyRoads3D\images\createnetwork.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\createnetwork.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\createnetwork.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\createnetwork.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\crossing.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\crossing.jpg
+      projectPath: Assets\EasyRoads3D\images\crossing.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\crossing.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\crossing.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\crossing.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\crossingCornerSettings.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\crossingCornerSettings.jpg
+      projectPath: Assets\EasyRoads3D\images\crossingCornerSettings.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\crossingCornerSettings.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\crossingCornerSettings.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\crossingCornerSettings.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\crossingHandles.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\crossingHandles.jpg
+      projectPath: Assets\EasyRoads3D\images\crossingHandles.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\crossingHandles.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\crossingHandles.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\crossingHandles.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\crossingPrefabs.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\crossingPrefabs.jpg
+      projectPath: Assets\EasyRoads3D\images\crossingPrefabs.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\crossingPrefabs.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\crossingPrefabs.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\crossingPrefabs.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\custom_editor_1.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\custom_editor_1.jpg
+      projectPath: Assets\EasyRoads3D\images\custom_editor_1.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\custom_editor_1.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\custom_editor_1.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\custom_editor_1.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\defaultMaterials.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\defaultMaterials.jpg
+      projectPath: Assets\EasyRoads3D\images\defaultMaterials.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\defaultMaterials.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\defaultMaterials.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\defaultMaterials.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\folders.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\folders.jpg
+      projectPath: Assets\EasyRoads3D\images\folders.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\folders.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\folders.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\folders.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\generalCrossingSettings.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\generalCrossingSettings.jpg
+      projectPath: Assets\EasyRoads3D\images\generalCrossingSettings.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\generalCrossingSettings.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\generalCrossingSettings.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\generalCrossingSettings.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\generalSettings.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\generalSettings.jpg
+      projectPath: Assets\EasyRoads3D\images\generalSettings.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\generalSettings.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\generalSettings.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\generalSettings.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\generalSettings_tab.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\generalSettings_tab.jpg
+      projectPath: Assets\EasyRoads3D\images\generalSettings_tab.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\generalSettings_tab.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\generalSettings_tab.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\generalSettings_tab.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\general_settings.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\general_settings.jpg
+      projectPath: Assets\EasyRoads3D\images\general_settings.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\general_settings.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\general_settings.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\general_settings.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\greenRedHandles.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\greenRedHandles.jpg
+      projectPath: Assets\EasyRoads3D\images\greenRedHandles.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\greenRedHandles.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\greenRedHandles.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\greenRedHandles.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\hierarchy.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\hierarchy.jpg
+      projectPath: Assets\EasyRoads3D\images\hierarchy.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\hierarchy.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\hierarchy.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\hierarchy.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\home.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\home.jpg
+      projectPath: Assets\EasyRoads3D\images\home.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\home.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\home.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\home.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\import_data.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\import_data.jpg
+      projectPath: Assets\EasyRoads3D\images\import_data.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\import_data.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\import_data.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\import_data.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\info.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\info.jpg
+      projectPath: Assets\EasyRoads3D\images\info.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\info.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\info.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\info.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\info_tab.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\info_tab.jpg
+      projectPath: Assets\EasyRoads3D\images\info_tab.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\info_tab.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\info_tab.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\info_tab.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\licenseInfo.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\licenseInfo.jpg
+      projectPath: Assets\EasyRoads3D\images\licenseInfo.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\licenseInfo.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\licenseInfo.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\licenseInfo.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\loaderGIFNEW.gif
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\loaderGIFNEW.gif
+      projectPath: Assets\EasyRoads3D\images\loaderGIFNEW.gif
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\loaderGIFNEW.gif.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\loaderGIFNEW.gif.meta
+      projectPath: Assets\EasyRoads3D\images\loaderGIFNEW.gif.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\lodgroups.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\lodgroups.jpg
+      projectPath: Assets\EasyRoads3D\images\lodgroups.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\lodgroups.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\lodgroups.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\lodgroups.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\mainSOsettings.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\mainSOsettings.jpg
+      projectPath: Assets\EasyRoads3D\images\mainSOsettings.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\mainSOsettings.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\mainSOsettings.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\mainSOsettings.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\mainToolbar.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\mainToolbar.jpg
+      projectPath: Assets\EasyRoads3D\images\mainToolbar.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\mainToolbar.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\mainToolbar.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\mainToolbar.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\markerAdditional.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\markerAdditional.jpg
+      projectPath: Assets\EasyRoads3D\images\markerAdditional.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\markerAdditional.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\markerAdditional.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\markerAdditional.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\menu.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\menu.jpg
+      projectPath: Assets\EasyRoads3D\images\menu.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\menu.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\menu.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\menu.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\menugui.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\menugui.jpg
+      projectPath: Assets\EasyRoads3D\images\menugui.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\menugui.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\menugui.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\menugui.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\meshBridge.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\meshBridge.jpg
+      projectPath: Assets\EasyRoads3D\images\meshBridge.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\meshBridge.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\meshBridge.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\meshBridge.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\meshEditor.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\meshEditor.jpg
+      projectPath: Assets\EasyRoads3D\images\meshEditor.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\meshEditor.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\meshEditor.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\meshEditor.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\newObject.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\newObject.jpg
+      projectPath: Assets\EasyRoads3D\images\newObject.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\newObject.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\newObject.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\newObject.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\newRoad.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\newRoad.jpg
+      projectPath: Assets\EasyRoads3D\images\newRoad.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\newRoad.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\newRoad.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\newRoad.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\nextBtm.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\nextBtm.jpg
+      projectPath: Assets\EasyRoads3D\images\nextBtm.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\nextBtm.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\nextBtm.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\nextBtm.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\nextTop.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\nextTop.jpg
+      projectPath: Assets\EasyRoads3D\images\nextTop.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\nextTop.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\nextTop.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\nextTop.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\prefabs_tab.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\prefabs_tab.jpg
+      projectPath: Assets\EasyRoads3D\images\prefabs_tab.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\prefabs_tab.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\prefabs_tab.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\prefabs_tab.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\previousBtm.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\previousBtm.jpg
+      projectPath: Assets\EasyRoads3D\images\previousBtm.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\previousBtm.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\previousBtm.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\previousBtm.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\previousTop.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\previousTop.jpg
+      projectPath: Assets\EasyRoads3D\images\previousTop.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\previousTop.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\previousTop.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\previousTop.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\processTerrain.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\processTerrain.jpg
+      projectPath: Assets\EasyRoads3D\images\processTerrain.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\processTerrain.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\processTerrain.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\processTerrain.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\render_tab.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\render_tab.jpg
+      projectPath: Assets\EasyRoads3D\images\render_tab.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\render_tab.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\render_tab.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\render_tab.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\roadTypes.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\roadTypes.jpg
+      projectPath: Assets\EasyRoads3D\images\roadTypes.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\roadTypes.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\roadTypes.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\roadTypes.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\roadproperties.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\roadproperties.jpg
+      projectPath: Assets\EasyRoads3D\images\roadproperties.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\roadproperties.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\roadproperties.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\roadproperties.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\roads_tab.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\roads_tab.jpg
+      projectPath: Assets\EasyRoads3D\images\roads_tab.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\roads_tab.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\roads_tab.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\roads_tab.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\scene_settings.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\scene_settings.jpg
+      projectPath: Assets\EasyRoads3D\images\scene_settings.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\scene_settings.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\scene_settings.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\scene_settings.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\scene_tab.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\scene_tab.jpg
+      projectPath: Assets\EasyRoads3D\images\scene_tab.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\scene_tab.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\scene_tab.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\scene_tab.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\scenecontrol.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\scenecontrol.jpg
+      projectPath: Assets\EasyRoads3D\images\scenecontrol.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\scenecontrol.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\scenecontrol.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\scenecontrol.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\shapeEditor.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\shapeEditor.jpg
+      projectPath: Assets\EasyRoads3D\images\shapeEditor.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\shapeEditor.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\shapeEditor.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\shapeEditor.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\sideobjects_start.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\sideobjects_start.jpg
+      projectPath: Assets\EasyRoads3D\images\sideobjects_start.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\sideobjects_start.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\sideobjects_start.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\sideobjects_start.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\soMeshInspector.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\soMeshInspector.jpg
+      projectPath: Assets\EasyRoads3D\images\soMeshInspector.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\soMeshInspector.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\soMeshInspector.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\soMeshInspector.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\soProceduralMeshInspector.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\soProceduralMeshInspector.jpg
+      projectPath: Assets\EasyRoads3D\images\soProceduralMeshInspector.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\soProceduralMeshInspector.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\soProceduralMeshInspector.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\soProceduralMeshInspector.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\soShapeInspector.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\soShapeInspector.jpg
+      projectPath: Assets\EasyRoads3D\images\soShapeInspector.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\soShapeInspector.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\soShapeInspector.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\soShapeInspector.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\so_tab.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\so_tab.jpg
+      projectPath: Assets\EasyRoads3D\images\so_tab.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\so_tab.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\so_tab.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\so_tab.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\spacer.GIF
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\spacer.GIF
+      projectPath: Assets\EasyRoads3D\images\spacer.GIF
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\spacer.GIF.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\spacer.GIF.meta
+      projectPath: Assets\EasyRoads3D\images\spacer.GIF.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\terrain_build.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\terrain_build.jpg
+      projectPath: Assets\EasyRoads3D\images\terrain_build.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\terrain_build.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\terrain_build.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\terrain_build.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\terrain_management.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\terrain_management.jpg
+      projectPath: Assets\EasyRoads3D\images\terrain_management.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\terrain_management.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\terrain_management.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\terrain_management.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\terrain_pre_build_options.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\terrain_pre_build_options.jpg
+      projectPath: Assets\EasyRoads3D\images\terrain_pre_build_options.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\terrain_pre_build_options.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\terrain_pre_build_options.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\terrain_pre_build_options.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\terrain_tab.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\terrain_tab.jpg
+      projectPath: Assets\EasyRoads3D\images\terrain_tab.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\terrain_tab.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\terrain_tab.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\terrain_tab.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\toolbar.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\toolbar.jpg
+      projectPath: Assets\EasyRoads3D\images\toolbar.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\toolbar.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\toolbar.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\toolbar.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\topLeft.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\topLeft.jpg
+      projectPath: Assets\EasyRoads3D\images\topLeft.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\topLeft.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\topLeft.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\topLeft.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\topMenu.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\topMenu.jpg
+      projectPath: Assets\EasyRoads3D\images\topMenu.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\topMenu.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\topMenu.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\topMenu.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\topMiddle.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\topMiddle.jpg
+      projectPath: Assets\EasyRoads3D\images\topMiddle.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\topMiddle.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\topMiddle.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\topMiddle.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\topRight.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\topRight.jpg
+      projectPath: Assets\EasyRoads3D\images\topRight.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\topRight.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\topRight.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\topRight.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\unity_mode.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\unity_mode.jpg
+      projectPath: Assets\EasyRoads3D\images\unity_mode.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\unity_mode.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\unity_mode.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\unity_mode.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\uploafGalleryBG.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\uploafGalleryBG.jpg
+      projectPath: Assets\EasyRoads3D\images\uploafGalleryBG.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\uploafGalleryBG.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\uploafGalleryBG.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\uploafGalleryBG.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\uvEditor.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\uvEditor.jpg
+      projectPath: Assets\EasyRoads3D\images\uvEditor.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\uvEditor.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\uvEditor.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\uvEditor.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\wirefence-1.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\wirefence-1.jpg
+      projectPath: Assets\EasyRoads3D\images\wirefence-1.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\images\wirefence-1.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\images\wirefence-1.jpg.meta
+      projectPath: Assets\EasyRoads3D\images\wirefence-1.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\lib.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\lib.meta
+      projectPath: Assets\EasyRoads3D\lib.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\lib\EasyRoads3Dv3.dll
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\lib\EasyRoads3Dv3.dll
+      projectPath: Assets\EasyRoads3D\lib\EasyRoads3Dv3.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\lib\EasyRoads3Dv3.dll.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\lib\EasyRoads3Dv3.dll.meta
+      projectPath: Assets\EasyRoads3D\lib\EasyRoads3Dv3.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\prefab meshes.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\prefab meshes.meta
+      projectPath: Assets\EasyRoads3D\prefab meshes.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\prefab meshes\_custom prefabs.txt
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\prefab meshes\_custom prefabs.txt
+      projectPath: Assets\EasyRoads3D\prefab meshes\_custom prefabs.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\prefab meshes\_custom prefabs.txt.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\prefab meshes\_custom prefabs.txt.meta
+      projectPath: Assets\EasyRoads3D\prefab meshes\_custom prefabs.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\prefab sources.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\prefab sources.meta
+      projectPath: Assets\EasyRoads3D\prefab sources.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\prefab sources\_custom prefabs.txt
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\prefab sources\_custom
+        prefabs.txt
+      projectPath: Assets\EasyRoads3D\prefab sources\_custom prefabs.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\prefab sources\_custom prefabs.txt.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\prefab sources\_custom
+        prefabs.txt.meta
+      projectPath: Assets\EasyRoads3D\prefab sources\_custom prefabs.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\shaders.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\shaders.meta
+      projectPath: Assets\EasyRoads3D\shaders.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\shaders\EasyRoads3D - Unity 5 Standard.shader
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\shaders\EasyRoads3D - Unity
+        5 Standard.shader
+      projectPath: Assets\EasyRoads3D\shaders\EasyRoads3D - Unity 5 Standard.shader
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\shaders\EasyRoads3D - Unity 5 Standard.shader.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\shaders\EasyRoads3D - Unity
+        5 Standard.shader.meta
+      projectPath: Assets\EasyRoads3D\shaders\EasyRoads3D - Unity 5 Standard.shader.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\shaders\EasyRoads3D - Unity 5 StandardSpecular.shader
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\shaders\EasyRoads3D - Unity
+        5 StandardSpecular.shader
+      projectPath: Assets\EasyRoads3D\shaders\EasyRoads3D - Unity 5 StandardSpecular.shader
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\shaders\EasyRoads3D - Unity 5 StandardSpecular.shader.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\shaders\EasyRoads3D - Unity
+        5 StandardSpecular.shader.meta
+      projectPath: Assets\EasyRoads3D\shaders\EasyRoads3D - Unity 5 StandardSpecular.shader.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\shaders\EasyRoads3D - Unity Standard 2018.shader
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\shaders\EasyRoads3D - Unity
+        Standard 2018.shader
+      projectPath: Assets\EasyRoads3D\shaders\EasyRoads3D - Unity Standard 2018.shader
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\shaders\EasyRoads3D - Unity Standard 2018.shader.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\shaders\EasyRoads3D - Unity
+        Standard 2018.shader.meta
+      projectPath: Assets\EasyRoads3D\shaders\EasyRoads3D - Unity Standard 2018.shader.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\shaders\EasyRoads3D-Road-Edit-Mode.shader
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\shaders\EasyRoads3D-Road-Edit-Mode.shader
+      projectPath: Assets\EasyRoads3D\shaders\EasyRoads3D-Road-Edit-Mode.shader
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\shaders\EasyRoads3D-Road-Edit-Mode.shader.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\shaders\EasyRoads3D-Road-Edit-Mode.shader.meta
+      projectPath: Assets\EasyRoads3D\shaders\EasyRoads3D-Road-Edit-Mode.shader.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\shaders\EasyRoads3D-Surface-Offset.shader
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\shaders\EasyRoads3D-Surface-Offset.shader
+      projectPath: Assets\EasyRoads3D\shaders\EasyRoads3D-Surface-Offset.shader
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\shaders\EasyRoads3D-Surface-Offset.shader.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\shaders\EasyRoads3D-Surface-Offset.shader.meta
+      projectPath: Assets\EasyRoads3D\shaders\EasyRoads3D-Surface-Offset.shader.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\style.css
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\style.css
+      projectPath: Assets\EasyRoads3D\style.css
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\style.css.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\style.css.meta
+      projectPath: Assets\EasyRoads3D\style.css.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\textures.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\textures.meta
+      projectPath: Assets\EasyRoads3D\textures.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\textures\editor.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\textures\editor.meta
+      projectPath: Assets\EasyRoads3D\textures\editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\textures\editor\locked.png
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\textures\editor\locked.png
+      projectPath: Assets\EasyRoads3D\textures\editor\locked.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\textures\editor\locked.png.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\textures\editor\locked.png.meta
+      projectPath: Assets\EasyRoads3D\textures\editor\locked.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\textures\editor\m_build.png
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\textures\editor\m_build.png
+      projectPath: Assets\EasyRoads3D\textures\editor\m_build.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\textures\editor\m_build.png.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\textures\editor\m_build.png.meta
+      projectPath: Assets\EasyRoads3D\textures\editor\m_build.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\textures\editor\m_header.png
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\textures\editor\m_header.png
+      projectPath: Assets\EasyRoads3D\textures\editor\m_header.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\textures\editor\m_header.png.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\textures\editor\m_header.png.meta
+      projectPath: Assets\EasyRoads3D\textures\editor\m_header.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\textures\editor\m_info.png
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\textures\editor\m_info.png
+      projectPath: Assets\EasyRoads3D\textures\editor\m_info.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\textures\editor\m_info.png.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\textures\editor\m_info.png.meta
+      projectPath: Assets\EasyRoads3D\textures\editor\m_info.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\textures\editor\m_prefabs.png
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\textures\editor\m_prefabs.png
+      projectPath: Assets\EasyRoads3D\textures\editor\m_prefabs.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\textures\editor\m_prefabs.png.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\textures\editor\m_prefabs.png.meta
+      projectPath: Assets\EasyRoads3D\textures\editor\m_prefabs.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\textures\editor\m_road.png
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\textures\editor\m_road.png
+      projectPath: Assets\EasyRoads3D\textures\editor\m_road.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\textures\editor\m_road.png.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\textures\editor\m_road.png.meta
+      projectPath: Assets\EasyRoads3D\textures\editor\m_road.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\textures\editor\m_roads.png
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\textures\editor\m_roads.png
+      projectPath: Assets\EasyRoads3D\textures\editor\m_roads.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\textures\editor\m_roads.png.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\textures\editor\m_roads.png.meta
+      projectPath: Assets\EasyRoads3D\textures\editor\m_roads.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\textures\editor\m_scene.png
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\textures\editor\m_scene.png
+      projectPath: Assets\EasyRoads3D\textures\editor\m_scene.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\textures\editor\m_scene.png.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\textures\editor\m_scene.png.meta
+      projectPath: Assets\EasyRoads3D\textures\editor\m_scene.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\textures\editor\m_settings.png
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\textures\editor\m_settings.png
+      projectPath: Assets\EasyRoads3D\textures\editor\m_settings.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\textures\editor\m_settings.png.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\textures\editor\m_settings.png.meta
+      projectPath: Assets\EasyRoads3D\textures\editor\m_settings.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\textures\editor\m_so.png
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\textures\editor\m_so.png
+      projectPath: Assets\EasyRoads3D\textures\editor\m_so.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\textures\editor\m_so.png.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\textures\editor\m_so.png.meta
+      projectPath: Assets\EasyRoads3D\textures\editor\m_so.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\textures\editor\unlocked.png
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\textures\editor\unlocked.png
+      projectPath: Assets\EasyRoads3D\textures\editor\unlocked.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\textures\editor\unlocked.png.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\textures\editor\unlocked.png.meta
+      projectPath: Assets\EasyRoads3D\textures\editor\unlocked.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\textures\roads.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\textures\roads.meta
+      projectPath: Assets\EasyRoads3D\textures\roads.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\textures\roads\dirtRoadTGA.tga
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\textures\roads\dirtRoadTGA.tga
+      projectPath: Assets\EasyRoads3D\textures\roads\dirtRoadTGA.tga
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\textures\roads\dirtRoadTGA.tga.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\textures\roads\dirtRoadTGA.tga.meta
+      projectPath: Assets\EasyRoads3D\textures\roads\dirtRoadTGA.tga.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\textures\roads\road2Lane_d.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\textures\roads\road2Lane_d.jpg
+      projectPath: Assets\EasyRoads3D\textures\roads\road2Lane_d.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\textures\roads\road2Lane_d.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\textures\roads\road2Lane_d.jpg.meta
+      projectPath: Assets\EasyRoads3D\textures\roads\road2Lane_d.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\textures\roads\road_b.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\textures\roads\road_b.jpg
+      projectPath: Assets\EasyRoads3D\textures\roads\road_b.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EasyRoads3D\textures\roads\road_b.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\EasyRoads3D\textures\roads\road_b.jpg.meta
+      projectPath: Assets\EasyRoads3D\textures\roads\road_b.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\New Terrain.asset
+      fullPath: D:\Game Dev\10 Nopember\Assets\New Terrain.asset
+      projectPath: Assets\New Terrain.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\New Terrain.asset.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\New Terrain.asset.meta
+      projectPath: Assets\New Terrain.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: D:\Game Dev\10 Nopember\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: D:\Game Dev\10 Nopember\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      fullPath: D:\Game Dev\10 Nopember\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: D:\Game Dev\10 Nopember\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: D:\Game Dev\10 Nopember\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      fullPath: D:\Game Dev\10 Nopember\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: D:\Game Dev\10 Nopember\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      fullPath: D:\Game Dev\10 Nopember\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: D:\Game Dev\10 Nopember\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: D:\Game Dev\10 Nopember\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: D:\Game Dev\10 Nopember\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: D:\Game Dev\10 Nopember\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      fullPath: D:\Game Dev\10 Nopember\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: D:\Game Dev\10 Nopember\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: D:\Game Dev\10 Nopember\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: D:\Game Dev\10 Nopember\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: D:\Game Dev\10 Nopember\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: D:\Game Dev\10 Nopember\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: D:\Game Dev\10 Nopember\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: D:\Game Dev\10 Nopember\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: D:\Game Dev\10 Nopember\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: D:\Game Dev\10 Nopember\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: D:\Game Dev\10 Nopember\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources.meta
+      projectPath: Assets\Resources.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d.meta
+      projectPath: Assets\Resources\3d.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3.meta
+      projectPath: Assets\Resources\3d\AUDI S3.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Audi_S3.3DS
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Audi_S3.3DS
+      projectPath: Assets\Resources\3d\AUDI S3\Audi_S3.3DS
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Audi_S3.3DS.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Audi_S3.3DS.meta
+      projectPath: Assets\Resources\3d\AUDI S3\Audi_S3.3DS.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Audi_S3.gsm
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Audi_S3.gsm
+      projectPath: Assets\Resources\3d\AUDI S3\Audi_S3.gsm
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Audi_S3.gsm.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Audi_S3.gsm.meta
+      projectPath: Assets\Resources\3d\AUDI S3\Audi_S3.gsm.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Audi_S3.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Audi_S3.meta
+      projectPath: Assets\Resources\3d\AUDI S3\Audi_S3.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Audi_S3\Thumbs.db
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Audi_S3\Thumbs.db
+      projectPath: Assets\Resources\3d\AUDI S3\Audi_S3\Thumbs.db
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Audi_S3\Thumbs.db.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Audi_S3\Thumbs.db.meta
+      projectPath: Assets\Resources\3d\AUDI S3\Audi_S3\Thumbs.db.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Audi_S3\a3_bdg.tga
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Audi_S3\a3_bdg.tga
+      projectPath: Assets\Resources\3d\AUDI S3\Audi_S3\a3_bdg.tga
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Audi_S3\a3_bdg.tga.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Audi_S3\a3_bdg.tga.meta
+      projectPath: Assets\Resources\3d\AUDI S3\Audi_S3\a3_bdg.tga.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Audi_S3\plat.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Audi_S3\plat.jpg
+      projectPath: Assets\Resources\3d\AUDI S3\Audi_S3\plat.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Audi_S3\plat.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Audi_S3\plat.jpg.meta
+      projectPath: Assets\Resources\3d\AUDI S3\Audi_S3\plat.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Audi_S3\s3_main.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Audi_S3\s3_main.jpg
+      projectPath: Assets\Resources\3d\AUDI S3\Audi_S3\s3_main.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Audi_S3\s3_main.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Audi_S3\s3_main.jpg.meta
+      projectPath: Assets\Resources\3d\AUDI S3\Audi_S3\s3_main.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Audi_S3\s3_tires.jpg
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Audi_S3\s3_tires.jpg
+      projectPath: Assets\Resources\3d\AUDI S3\Audi_S3\s3_tires.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Audi_S3\s3_tires.jpg.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Audi_S3\s3_tires.jpg.meta
+      projectPath: Assets\Resources\3d\AUDI S3\Audi_S3\s3_tires.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\California_steering_wheel.obj
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\California_steering_wheel.obj
+      projectPath: Assets\Resources\3d\AUDI S3\California_steering_wheel.obj
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\California_steering_wheel.obj.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\California_steering_wheel.obj.meta
+      projectPath: Assets\Resources\3d\AUDI S3\California_steering_wheel.obj.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Materials.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Materials.meta
+      projectPath: Assets\Resources\3d\AUDI S3\Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Materials\!WINDOWS.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Materials\!WINDOWS.mat
+      projectPath: Assets\Resources\3d\AUDI S3\Materials\!WINDOWS.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Materials\!WINDOWS.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Materials\!WINDOWS.mat.meta
+      projectPath: Assets\Resources\3d\AUDI S3\Materials\!WINDOWS.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Materials\BLACK.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Materials\BLACK.mat
+      projectPath: Assets\Resources\3d\AUDI S3\Materials\BLACK.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Materials\BLACK.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Materials\BLACK.mat.meta
+      projectPath: Assets\Resources\3d\AUDI S3\Materials\BLACK.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Materials\BLACK1.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Materials\BLACK1.mat
+      projectPath: Assets\Resources\3d\AUDI S3\Materials\BLACK1.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Materials\BLACK1.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Materials\BLACK1.mat.meta
+      projectPath: Assets\Resources\3d\AUDI S3\Materials\BLACK1.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Materials\CHROME.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Materials\CHROME.mat
+      projectPath: Assets\Resources\3d\AUDI S3\Materials\CHROME.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Materials\CHROME.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Materials\CHROME.mat.meta
+      projectPath: Assets\Resources\3d\AUDI S3\Materials\CHROME.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Materials\FRONT_SPOILE.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Materials\FRONT_SPOILE.mat
+      projectPath: Assets\Resources\3d\AUDI S3\Materials\FRONT_SPOILE.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Materials\FRONT_SPOILE.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Materials\FRONT_SPOILE.mat.meta
+      projectPath: Assets\Resources\3d\AUDI S3\Materials\FRONT_SPOILE.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Materials\FRONT_SPOILER.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Materials\FRONT_SPOILER.mat
+      projectPath: Assets\Resources\3d\AUDI S3\Materials\FRONT_SPOILER.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Materials\FRONT_SPOILER.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Materials\FRONT_SPOILER.mat.meta
+      projectPath: Assets\Resources\3d\AUDI S3\Materials\FRONT_SPOILER.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Materials\GLASS_BLACK.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Materials\GLASS_BLACK.mat
+      projectPath: Assets\Resources\3d\AUDI S3\Materials\GLASS_BLACK.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Materials\GLASS_BLACK.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Materials\GLASS_BLACK.mat.meta
+      projectPath: Assets\Resources\3d\AUDI S3\Materials\GLASS_BLACK.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Materials\Glass.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Materials\Glass.mat
+      projectPath: Assets\Resources\3d\AUDI S3\Materials\Glass.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Materials\Glass.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Materials\Glass.mat.meta
+      projectPath: Assets\Resources\3d\AUDI S3\Materials\Glass.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Materials\INTERIOR.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Materials\INTERIOR.mat
+      projectPath: Assets\Resources\3d\AUDI S3\Materials\INTERIOR.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Materials\INTERIOR.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Materials\INTERIOR.mat.meta
+      projectPath: Assets\Resources\3d\AUDI S3\Materials\INTERIOR.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Materials\MirrorL.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Materials\MirrorL.mat
+      projectPath: Assets\Resources\3d\AUDI S3\Materials\MirrorL.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Materials\MirrorL.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Materials\MirrorL.mat.meta
+      projectPath: Assets\Resources\3d\AUDI S3\Materials\MirrorL.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Materials\PAINT.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Materials\PAINT.mat
+      projectPath: Assets\Resources\3d\AUDI S3\Materials\PAINT.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Materials\PAINT.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Materials\PAINT.mat.meta
+      projectPath: Assets\Resources\3d\AUDI S3\Materials\PAINT.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Materials\PLASTIC_BLAC.000.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Materials\PLASTIC_BLAC.000.mat
+      projectPath: Assets\Resources\3d\AUDI S3\Materials\PLASTIC_BLAC.000.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Materials\PLASTIC_BLAC.000.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Materials\PLASTIC_BLAC.000.mat.meta
+      projectPath: Assets\Resources\3d\AUDI S3\Materials\PLASTIC_BLAC.000.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Materials\PLASTIC_BLAC.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Materials\PLASTIC_BLAC.mat
+      projectPath: Assets\Resources\3d\AUDI S3\Materials\PLASTIC_BLAC.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Materials\PLASTIC_BLAC.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Materials\PLASTIC_BLAC.mat.meta
+      projectPath: Assets\Resources\3d\AUDI S3\Materials\PLASTIC_BLAC.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Materials\PLASTIC_BLACK.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Materials\PLASTIC_BLACK.mat
+      projectPath: Assets\Resources\3d\AUDI S3\Materials\PLASTIC_BLACK.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Materials\PLASTIC_BLACK.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Materials\PLASTIC_BLACK.mat.meta
+      projectPath: Assets\Resources\3d\AUDI S3\Materials\PLASTIC_BLACK.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Materials\PLASTIC_BLACK1.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Materials\PLASTIC_BLACK1.mat
+      projectPath: Assets\Resources\3d\AUDI S3\Materials\PLASTIC_BLACK1.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Materials\PLASTIC_BLACK1.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Materials\PLASTIC_BLACK1.mat.meta
+      projectPath: Assets\Resources\3d\AUDI S3\Materials\PLASTIC_BLACK1.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Materials\PLATE.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Materials\PLATE.mat
+      projectPath: Assets\Resources\3d\AUDI S3\Materials\PLATE.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Materials\PLATE.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Materials\PLATE.mat.meta
+      projectPath: Assets\Resources\3d\AUDI S3\Materials\PLATE.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Materials\RIM.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Materials\RIM.mat
+      projectPath: Assets\Resources\3d\AUDI S3\Materials\RIM.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Materials\RIM.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Materials\RIM.mat.meta
+      projectPath: Assets\Resources\3d\AUDI S3\Materials\RIM.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Materials\S3_TIRES.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Materials\S3_TIRES.mat
+      projectPath: Assets\Resources\3d\AUDI S3\Materials\S3_TIRES.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Materials\S3_TIRES.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Materials\S3_TIRES.mat.meta
+      projectPath: Assets\Resources\3d\AUDI S3\Materials\S3_TIRES.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Materials\a3_bdge.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Materials\a3_bdge.mat
+      projectPath: Assets\Resources\3d\AUDI S3\Materials\a3_bdge.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Materials\a3_bdge.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Materials\a3_bdge.mat.meta
+      projectPath: Assets\Resources\3d\AUDI S3\Materials\a3_bdge.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Materials\defaultMat.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Materials\defaultMat.mat
+      projectPath: Assets\Resources\3d\AUDI S3\Materials\defaultMat.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Materials\defaultMat.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Materials\defaultMat.mat.meta
+      projectPath: Assets\Resources\3d\AUDI S3\Materials\defaultMat.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Materials\s3main.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Materials\s3main.mat
+      projectPath: Assets\Resources\3d\AUDI S3\Materials\s3main.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\Materials\s3main.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\Materials\s3main.mat.meta
+      projectPath: Assets\Resources\3d\AUDI S3\Materials\s3main.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\MirrorL.renderTexture
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\MirrorL.renderTexture
+      projectPath: Assets\Resources\3d\AUDI S3\MirrorL.renderTexture
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\MirrorL.renderTexture.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\MirrorL.renderTexture.meta
+      projectPath: Assets\Resources\3d\AUDI S3\MirrorL.renderTexture.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\archibase.net.txt
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\archibase.net.txt
+      projectPath: Assets\Resources\3d\AUDI S3\archibase.net.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\archibase.net.txt.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\archibase.net.txt.meta
+      projectPath: Assets\Resources\3d\AUDI S3\archibase.net.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\audis3tanpasetor.3ds
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\audis3tanpasetor.3ds
+      projectPath: Assets\Resources\3d\AUDI S3\audis3tanpasetor.3ds
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\audis3tanpasetor.3ds.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\audis3tanpasetor.3ds.meta
+      projectPath: Assets\Resources\3d\AUDI S3\audis3tanpasetor.3ds.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\audis3tanpasetora.3ds
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\audis3tanpasetora.3ds
+      projectPath: Assets\Resources\3d\AUDI S3\audis3tanpasetora.3ds
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\audis3tanpasetora.3ds.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\audis3tanpasetora.3ds.meta
+      projectPath: Assets\Resources\3d\AUDI S3\audis3tanpasetora.3ds.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\audis3tanpasetorqqq.3ds
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\audis3tanpasetorqqq.3ds
+      projectPath: Assets\Resources\3d\AUDI S3\audis3tanpasetorqqq.3ds
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\audis3tanpasetorqqq.3ds.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\audis3tanpasetorqqq.3ds.meta
+      projectPath: Assets\Resources\3d\AUDI S3\audis3tanpasetorqqq.3ds.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\audis3tanpasetorqqqasdasdsa.3ds
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\audis3tanpasetorqqqasdasdsa.3ds
+      projectPath: Assets\Resources\3d\AUDI S3\audis3tanpasetorqqqasdasdsa.3ds
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\audis3tanpasetorqqqasdasdsa.3ds.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\audis3tanpasetorqqqasdasdsa.3ds.meta
+      projectPath: Assets\Resources\3d\AUDI S3\audis3tanpasetorqqqasdasdsa.3ds.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\untitled.mtl
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\untitled.mtl
+      projectPath: Assets\Resources\3d\AUDI S3\untitled.mtl
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\untitled.mtl.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\untitled.mtl.meta
+      projectPath: Assets\Resources\3d\AUDI S3\untitled.mtl.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\untitled.obj
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\untitled.obj
+      projectPath: Assets\Resources\3d\AUDI S3\untitled.obj
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\AUDI S3\untitled.obj.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\AUDI S3\untitled.obj.meta
+      projectPath: Assets\Resources\3d\AUDI S3\untitled.obj.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\MobilKeren2.fbx
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\MobilKeren2.fbx
+      projectPath: Assets\Resources\3d\MobilKeren2.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\MobilKeren2.fbx.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\MobilKeren2.fbx.meta
+      projectPath: Assets\Resources\3d\MobilKeren2.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD.meta
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\BRAKES.png
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\BRAKES.png
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\BRAKES.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\BRAKES.png.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\BRAKES.png.meta
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\BRAKES.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials.meta
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\BRAKES.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\BRAKES.mat
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\BRAKES.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\BRAKES.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\BRAKES.mat.meta
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\BRAKES.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\INTERIOR_LOD0.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\INTERIOR_LOD0.mat
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\INTERIOR_LOD0.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\INTERIOR_LOD0.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\INTERIOR_LOD0.mat.meta
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\INTERIOR_LOD0.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\LIGHTS_lod0.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\LIGHTS_lod0.mat
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\LIGHTS_lod0.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\LIGHTS_lod0.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\LIGHTS_lod0.mat.meta
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\LIGHTS_lod0.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\Material.000.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\Material.000.mat
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\Material.000.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\Material.000.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\Material.000.mat.meta
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\Material.000.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\Material.002.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\Material.002.mat
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\Material.002.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\Material.002.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\Material.002.mat.meta
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\Material.002.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\Material.003.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\Material.003.mat
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\Material.003.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\Material.003.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\Material.003.mat.meta
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\Material.003.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\NODAMAGE_LOD0.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\NODAMAGE_LOD0.mat
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\NODAMAGE_LOD0.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\NODAMAGE_LOD0.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\NODAMAGE_LOD0.mat.meta
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\NODAMAGE_LOD0.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\RK_chrome.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\RK_chrome.mat
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\RK_chrome.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\RK_chrome.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\RK_chrome.mat.meta
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\RK_chrome.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\RK_rubber_black.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\RK_rubber_black.mat
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\RK_rubber_black.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\RK_rubber_black.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\RK_rubber_black.mat.meta
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\RK_rubber_black.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\black.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\black.mat
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\black.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\black.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\black.mat.meta
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\black.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\black_glass.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\black_glass.mat
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\black_glass.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\black_glass.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\black_glass.mat.meta
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\black_glass.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\body.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\body.mat
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\body.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\body.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\body.mat.meta
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\body.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\bottom.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\bottom.mat
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\bottom.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\bottom.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\bottom.mat.meta
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\bottom.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\chrome.002.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\chrome.002.mat
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\chrome.002.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\chrome.002.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\chrome.002.mat.meta
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\chrome.002.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\chrome.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\chrome.mat
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\chrome.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\chrome.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\chrome.mat.meta
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\chrome.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\detail_glass_red.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\detail_glass_red.mat
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\detail_glass_red.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\detail_glass_red.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\detail_glass_red.mat.meta
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\detail_glass_red.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\digital_gauge.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\digital_gauge.mat
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\digital_gauge.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\digital_gauge.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\digital_gauge.mat.meta
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\digital_gauge.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\emzone_padanga.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\emzone_padanga.mat
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\emzone_padanga.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\emzone_padanga.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\emzone_padanga.mat.meta
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\emzone_padanga.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\glass2.001.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\glass2.001.mat
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\glass2.001.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\glass2.001.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\glass2.001.mat.meta
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\glass2.001.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\grille.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\grille.mat
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\grille.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\grille.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\grille.mat.meta
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\grille.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\inner_rim.001.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\inner_rim.001.mat
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\inner_rim.001.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\inner_rim.001.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\inner_rim.001.mat.meta
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\inner_rim.001.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\leather.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\leather.mat
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\leather.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\leather.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\leather.mat.meta
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\leather.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\metal2.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\metal2.mat
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\metal2.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\metal2.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\metal2.mat.meta
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\metal2.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\mirror.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\mirror.mat
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\mirror.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\mirror.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\mirror.mat.meta
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\mirror.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\plastic.002.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\plastic.002.mat
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\plastic.002.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\plastic.002.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\plastic.002.mat.meta
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\plastic.002.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\plastic2.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\plastic2.mat
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\plastic2.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\plastic2.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\plastic2.mat.meta
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\plastic2.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\redglass.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\redglass.mat
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\redglass.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\redglass.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\redglass.mat.meta
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\redglass.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\reflector.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\reflector.mat
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\reflector.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\reflector.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\reflector.mat.meta
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\reflector.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\reverse_light_lod0.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\reverse_light_lod0.mat
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\reverse_light_lod0.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\reverse_light_lod0.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\reverse_light_lod0.mat.meta
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\reverse_light_lod0.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\rim.002.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\rim.002.mat
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\rim.002.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\rim.002.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\rim.002.mat.meta
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\rim.002.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\rubber.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\rubber.mat
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\rubber.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\rubber.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\rubber.mat.meta
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\rubber.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\rubber_trim.002.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\rubber_trim.002.mat
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\rubber_trim.002.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\rubber_trim.002.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\rubber_trim.002.mat.meta
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\rubber_trim.002.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\undercarriage.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\undercarriage.mat
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\undercarriage.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\undercarriage.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\undercarriage.mat.meta
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\undercarriage.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\window.001.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\window.001.mat
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\window.001.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\window.001.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\window.001.mat.meta
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\window.001.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\wood.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\wood.mat
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\wood.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\Materials\wood.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\Materials\wood.mat.meta
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\Materials\wood.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\SCI_FRS_13_HD.mtl
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\SCI_FRS_13_HD.mtl
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\SCI_FRS_13_HD.mtl
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\SCI_FRS_13_HD.mtl.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\SCI_FRS_13_HD.mtl.meta
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\SCI_FRS_13_HD.mtl.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\SCI_FRS_13_HD.obj
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\SCI_FRS_13_HD.obj
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\SCI_FRS_13_HD.obj
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\SCI_FRS_13_HD.obj.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\SCI_FRS_13_HD.obj.meta
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\SCI_FRS_13_HD.obj.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\grille1.tga
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\grille1.tga
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\grille1.tga
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\grille1.tga.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\grille1.tga.meta
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\grille1.tga.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\grille2.tga
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\grille2.tga
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\grille2.tga
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\grille2.tga.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\grille2.tga.meta
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\grille2.tga.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\interior_lod0.bmp
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\interior_lod0.bmp
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\interior_lod0.bmp
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\interior_lod0.bmp.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\interior_lod0.bmp.meta
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\interior_lod0.bmp.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\lights_lod0.bmp
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\lights_lod0.bmp
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\lights_lod0.bmp
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\lights_lod0.bmp.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\lights_lod0.bmp.meta
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\lights_lod0.bmp.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\nodamage_lod0.bmp
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\nodamage_lod0.bmp
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\nodamage_lod0.bmp
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\nodamage_lod0.bmp.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\nodamage_lod0.bmp.meta
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\nodamage_lod0.bmp.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\sci_frs_13_txt_miles.bmp
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\sci_frs_13_txt_miles.bmp
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\sci_frs_13_txt_miles.bmp
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\sci_frs_13_txt_miles.bmp.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\sci_frs_13_txt_miles.bmp.meta
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\sci_frs_13_txt_miles.bmp.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\sci_frs_13_txt_mph.bmp
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\sci_frs_13_txt_mph.bmp
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\sci_frs_13_txt_mph.bmp
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\sci_frs_13_txt_mph.bmp.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\sci_frs_13_txt_mph.bmp.meta
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\sci_frs_13_txt_mph.bmp.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\sci_frs_13_txt_odo.bmp
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\sci_frs_13_txt_odo.bmp
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\sci_frs_13_txt_odo.bmp
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\sci_frs_13_txt_odo.bmp.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\sci_frs_13_txt_odo.bmp.meta
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\sci_frs_13_txt_odo.bmp.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\undercarriage.png
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\undercarriage.png
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\undercarriage.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\undercarriage.png.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\undercarriage.png.meta
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\undercarriage.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\wheel.tga
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\wheel.tga
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\wheel.tga
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\wheel.tga.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\wheel.tga.meta
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\wheel.tga.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\wood.bmp
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\wood.bmp
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\wood.bmp
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\3d\SCI_FRS_13_HD\wood.bmp.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\3d\SCI_FRS_13_HD\wood.bmp.meta
+      projectPath: Assets\Resources\3d\SCI_FRS_13_HD\wood.bmp.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\Materials.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\Materials.meta
+      projectPath: Assets\Resources\Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\Materials\Platform.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\Materials\Platform.mat
+      projectPath: Assets\Resources\Materials\Platform.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\Materials\Platform.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\Materials\Platform.mat.meta
+      projectPath: Assets\Resources\Materials\Platform.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\Physic Materials.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Resources\Physic Materials.meta
+      projectPath: Assets\Resources\Physic Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Scenes.meta
+      projectPath: Assets\Scenes.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: D:\Game Dev\10 Nopember\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Scenes\SampleScene.unity.meta
+      projectPath: Assets\Scenes\SampleScene.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Tes.unity
+      fullPath: D:\Game Dev\10 Nopember\Assets\Scenes\Tes.unity
+      projectPath: Assets\Scenes\Tes.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Tes.unity.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Scenes\Tes.unity.meta
+      projectPath: Assets\Scenes\Tes.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Scripts.meta
+      projectPath: Assets\Scripts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\CarMovement.cs
+      fullPath: D:\Game Dev\10 Nopember\Assets\Scripts\CarMovement.cs
+      projectPath: Assets\Scripts\CarMovement.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\CarMovement.cs.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Scripts\CarMovement.cs.meta
+      projectPath: Assets\Scripts\CarMovement.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\TesControl.cs
+      fullPath: D:\Game Dev\10 Nopember\Assets\Scripts\TesControl.cs
+      projectPath: Assets\Scripts\TesControl.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\TesControl.cs.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Scripts\TesControl.cs.meta
+      projectPath: Assets\Scripts\TesControl.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Standard Assets.meta
+      projectPath: Assets\Standard Assets.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\Terrain Assets.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Standard Assets\Terrain Assets.meta
+      projectPath: Assets\Standard Assets\Terrain Assets.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\Terrain Assets\Terrain Grass.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Standard Assets\Terrain Assets\Terrain
+        Grass.meta
+      projectPath: Assets\Standard Assets\Terrain Assets\Terrain Grass.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\Terrain Assets\Terrain Grass\Grass ER.psd
+      fullPath: D:\Game Dev\10 Nopember\Assets\Standard Assets\Terrain Assets\Terrain
+        Grass\Grass ER.psd
+      projectPath: Assets\Standard Assets\Terrain Assets\Terrain Grass\Grass ER.psd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\Terrain Assets\Terrain Grass\Grass ER.psd.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Standard Assets\Terrain Assets\Terrain
+        Grass\Grass ER.psd.meta
+      projectPath: Assets\Standard Assets\Terrain Assets\Terrain Grass\Grass ER.psd.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\Terrain Assets\Terrain Grass\Grass2 ER.psd
+      fullPath: D:\Game Dev\10 Nopember\Assets\Standard Assets\Terrain Assets\Terrain
+        Grass\Grass2 ER.psd
+      projectPath: Assets\Standard Assets\Terrain Assets\Terrain Grass\Grass2 ER.psd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\Terrain Assets\Terrain Grass\Grass2 ER.psd.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Standard Assets\Terrain Assets\Terrain
+        Grass\Grass2 ER.psd.meta
+      projectPath: Assets\Standard Assets\Terrain Assets\Terrain Grass\Grass2 ER.psd.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\Terrain Assets\Terrain Textures.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Standard Assets\Terrain Assets\Terrain
+        Textures.meta
+      projectPath: Assets\Standard Assets\Terrain Assets\Terrain Textures.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\Terrain Assets\Terrain Textures\Cliff (Layered
+        Rock) ER.psd
+      fullPath: D:\Game Dev\10 Nopember\Assets\Standard Assets\Terrain Assets\Terrain
+        Textures\Cliff (Layered Rock) ER.psd
+      projectPath: Assets\Standard Assets\Terrain Assets\Terrain Textures\Cliff (Layered
+        Rock) ER.psd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\Terrain Assets\Terrain Textures\Cliff (Layered
+        Rock) ER.psd.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Standard Assets\Terrain Assets\Terrain
+        Textures\Cliff (Layered Rock) ER.psd.meta
+      projectPath: Assets\Standard Assets\Terrain Assets\Terrain Textures\Cliff (Layered
+        Rock) ER.psd.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\Terrain Assets\Terrain Textures\GoodDirt ER.psd
+      fullPath: D:\Game Dev\10 Nopember\Assets\Standard Assets\Terrain Assets\Terrain
+        Textures\GoodDirt ER.psd
+      projectPath: Assets\Standard Assets\Terrain Assets\Terrain Textures\GoodDirt
+        ER.psd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\Terrain Assets\Terrain Textures\GoodDirt ER.psd.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Standard Assets\Terrain Assets\Terrain
+        Textures\GoodDirt ER.psd.meta
+      projectPath: Assets\Standard Assets\Terrain Assets\Terrain Textures\GoodDirt
+        ER.psd.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\Terrain Assets\Terrain Textures\Grass (Hill) ER.psd
+      fullPath: D:\Game Dev\10 Nopember\Assets\Standard Assets\Terrain Assets\Terrain
+        Textures\Grass (Hill) ER.psd
+      projectPath: Assets\Standard Assets\Terrain Assets\Terrain Textures\Grass (Hill)
+        ER.psd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\Terrain Assets\Terrain Textures\Grass (Hill) ER.psd.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Standard Assets\Terrain Assets\Terrain
+        Textures\Grass (Hill) ER.psd.meta
+      projectPath: Assets\Standard Assets\Terrain Assets\Terrain Textures\Grass (Hill)
+        ER.psd.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\Terrain Assets\Terrain Textures\Grass ER.tga
+      fullPath: D:\Game Dev\10 Nopember\Assets\Standard Assets\Terrain Assets\Terrain
+        Textures\Grass ER.tga
+      projectPath: Assets\Standard Assets\Terrain Assets\Terrain Textures\Grass ER.tga
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\Terrain Assets\Terrain Textures\Grass ER.tga.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Standard Assets\Terrain Assets\Terrain
+        Textures\Grass ER.tga.meta
+      projectPath: Assets\Standard Assets\Terrain Assets\Terrain Textures\Grass ER.tga.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\Terrain Assets\Terrain Textures\Grass&Rock ER.psd
+      fullPath: D:\Game Dev\10 Nopember\Assets\Standard Assets\Terrain Assets\Terrain
+        Textures\Grass&Rock ER.psd
+      projectPath: Assets\Standard Assets\Terrain Assets\Terrain Textures\Grass&Rock
+        ER.psd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\Terrain Assets\Terrain Textures\Grass&Rock ER.psd.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Standard Assets\Terrain Assets\Terrain
+        Textures\Grass&Rock ER.psd.meta
+      projectPath: Assets\Standard Assets\Terrain Assets\Terrain Textures\Grass&Rock
+        ER.psd.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\sky ER.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\Standard Assets\sky ER.mat
+      projectPath: Assets\Standard Assets\sky ER.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\sky ER.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\Standard Assets\sky ER.mat.meta
+      projectPath: Assets\Standard Assets\sky ER.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TerrainTexturesPackFree.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\TerrainTexturesPackFree.meta
+      projectPath: Assets\TerrainTexturesPackFree.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TerrainTexturesPackFree\DemoScene.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\TerrainTexturesPackFree\DemoScene.meta
+      projectPath: Assets\TerrainTexturesPackFree\DemoScene.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TerrainTexturesPackFree\DemoScene\Demo.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\TerrainTexturesPackFree\DemoScene\Demo.meta
+      projectPath: Assets\TerrainTexturesPackFree\DemoScene\Demo.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TerrainTexturesPackFree\DemoScene\Demo.unity
+      fullPath: D:\Game Dev\10 Nopember\Assets\TerrainTexturesPackFree\DemoScene\Demo.unity
+      projectPath: Assets\TerrainTexturesPackFree\DemoScene\Demo.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TerrainTexturesPackFree\DemoScene\Demo.unity.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\TerrainTexturesPackFree\DemoScene\Demo.unity.meta
+      projectPath: Assets\TerrainTexturesPackFree\DemoScene\Demo.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TerrainTexturesPackFree\DemoScene\Demo\LightingData.asset
+      fullPath: D:\Game Dev\10 Nopember\Assets\TerrainTexturesPackFree\DemoScene\Demo\LightingData.asset
+      projectPath: Assets\TerrainTexturesPackFree\DemoScene\Demo\LightingData.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TerrainTexturesPackFree\DemoScene\Demo\LightingData.asset.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\TerrainTexturesPackFree\DemoScene\Demo\LightingData.asset.meta
+      projectPath: Assets\TerrainTexturesPackFree\DemoScene\Demo\LightingData.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TerrainTexturesPackFree\DemoScene\Demo\ReflectionProbe-0.exr
+      fullPath: D:\Game Dev\10 Nopember\Assets\TerrainTexturesPackFree\DemoScene\Demo\ReflectionProbe-0.exr
+      projectPath: Assets\TerrainTexturesPackFree\DemoScene\Demo\ReflectionProbe-0.exr
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TerrainTexturesPackFree\DemoScene\Demo\ReflectionProbe-0.exr.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\TerrainTexturesPackFree\DemoScene\Demo\ReflectionProbe-0.exr.meta
+      projectPath: Assets\TerrainTexturesPackFree\DemoScene\Demo\ReflectionProbe-0.exr.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TerrainTexturesPackFree\TerrainTextures.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\TerrainTexturesPackFree\TerrainTextures.meta
+      projectPath: Assets\TerrainTexturesPackFree\TerrainTextures.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TerrainTexturesPackFree\TerrainTextures\GrassUV01.png
+      fullPath: D:\Game Dev\10 Nopember\Assets\TerrainTexturesPackFree\TerrainTextures\GrassUV01.png
+      projectPath: Assets\TerrainTexturesPackFree\TerrainTextures\GrassUV01.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TerrainTexturesPackFree\TerrainTextures\GrassUV01.png.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\TerrainTexturesPackFree\TerrainTextures\GrassUV01.png.meta
+      projectPath: Assets\TerrainTexturesPackFree\TerrainTextures\GrassUV01.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TerrainTexturesPackFree\TerrainTextures\GrassUV01_N.png
+      fullPath: D:\Game Dev\10 Nopember\Assets\TerrainTexturesPackFree\TerrainTextures\GrassUV01_N.png
+      projectPath: Assets\TerrainTexturesPackFree\TerrainTextures\GrassUV01_N.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TerrainTexturesPackFree\TerrainTextures\GrassUV01_N.png.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\TerrainTexturesPackFree\TerrainTextures\GrassUV01_N.png.meta
+      projectPath: Assets\TerrainTexturesPackFree\TerrainTextures\GrassUV01_N.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TerrainTexturesPackFree\TerrainTextures\GrassUV02.png
+      fullPath: D:\Game Dev\10 Nopember\Assets\TerrainTexturesPackFree\TerrainTextures\GrassUV02.png
+      projectPath: Assets\TerrainTexturesPackFree\TerrainTextures\GrassUV02.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TerrainTexturesPackFree\TerrainTextures\GrassUV02.png.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\TerrainTexturesPackFree\TerrainTextures\GrassUV02.png.meta
+      projectPath: Assets\TerrainTexturesPackFree\TerrainTextures\GrassUV02.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TerrainTexturesPackFree\TerrainTextures\GrassUV02_N.png
+      fullPath: D:\Game Dev\10 Nopember\Assets\TerrainTexturesPackFree\TerrainTextures\GrassUV02_N.png
+      projectPath: Assets\TerrainTexturesPackFree\TerrainTextures\GrassUV02_N.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TerrainTexturesPackFree\TerrainTextures\GrassUV02_N.png.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\TerrainTexturesPackFree\TerrainTextures\GrassUV02_N.png.meta
+      projectPath: Assets\TerrainTexturesPackFree\TerrainTextures\GrassUV02_N.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TerrainTexturesPackFree\TerrainTextures\GroundCracked01.png
+      fullPath: D:\Game Dev\10 Nopember\Assets\TerrainTexturesPackFree\TerrainTextures\GroundCracked01.png
+      projectPath: Assets\TerrainTexturesPackFree\TerrainTextures\GroundCracked01.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TerrainTexturesPackFree\TerrainTextures\GroundCracked01.png.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\TerrainTexturesPackFree\TerrainTextures\GroundCracked01.png.meta
+      projectPath: Assets\TerrainTexturesPackFree\TerrainTextures\GroundCracked01.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TerrainTexturesPackFree\TerrainTextures\GroundCracked01_N.png
+      fullPath: D:\Game Dev\10 Nopember\Assets\TerrainTexturesPackFree\TerrainTextures\GroundCracked01_N.png
+      projectPath: Assets\TerrainTexturesPackFree\TerrainTextures\GroundCracked01_N.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TerrainTexturesPackFree\TerrainTextures\GroundCracked01_N.png.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\TerrainTexturesPackFree\TerrainTextures\GroundCracked01_N.png.meta
+      projectPath: Assets\TerrainTexturesPackFree\TerrainTextures\GroundCracked01_N.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TerrainTexturesPackFree\TerrainTextures\GroundDryLeaves01.png
+      fullPath: D:\Game Dev\10 Nopember\Assets\TerrainTexturesPackFree\TerrainTextures\GroundDryLeaves01.png
+      projectPath: Assets\TerrainTexturesPackFree\TerrainTextures\GroundDryLeaves01.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TerrainTexturesPackFree\TerrainTextures\GroundDryLeaves01.png.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\TerrainTexturesPackFree\TerrainTextures\GroundDryLeaves01.png.meta
+      projectPath: Assets\TerrainTexturesPackFree\TerrainTextures\GroundDryLeaves01.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TerrainTexturesPackFree\TerrainTextures\GroundDryLeaves01_N.png
+      fullPath: D:\Game Dev\10 Nopember\Assets\TerrainTexturesPackFree\TerrainTextures\GroundDryLeaves01_N.png
+      projectPath: Assets\TerrainTexturesPackFree\TerrainTextures\GroundDryLeaves01_N.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TerrainTexturesPackFree\TerrainTextures\GroundDryLeaves01_N.png.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\TerrainTexturesPackFree\TerrainTextures\GroundDryLeaves01_N.png.meta
+      projectPath: Assets\TerrainTexturesPackFree\TerrainTextures\GroundDryLeaves01_N.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TerrainTexturesPackFree\TerrainTextures\GroundStones01.png
+      fullPath: D:\Game Dev\10 Nopember\Assets\TerrainTexturesPackFree\TerrainTextures\GroundStones01.png
+      projectPath: Assets\TerrainTexturesPackFree\TerrainTextures\GroundStones01.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TerrainTexturesPackFree\TerrainTextures\GroundStones01.png.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\TerrainTexturesPackFree\TerrainTextures\GroundStones01.png.meta
+      projectPath: Assets\TerrainTexturesPackFree\TerrainTextures\GroundStones01.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TerrainTexturesPackFree\TerrainTextures\GroundStones01_N.png
+      fullPath: D:\Game Dev\10 Nopember\Assets\TerrainTexturesPackFree\TerrainTextures\GroundStones01_N.png
+      projectPath: Assets\TerrainTexturesPackFree\TerrainTextures\GroundStones01_N.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TerrainTexturesPackFree\TerrainTextures\GroundStones01_N.png.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\TerrainTexturesPackFree\TerrainTextures\GroundStones01_N.png.meta
+      projectPath: Assets\TerrainTexturesPackFree\TerrainTextures\GroundStones01_N.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\_TerrainAutoUpgrade.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\_TerrainAutoUpgrade.meta
+      projectPath: Assets\_TerrainAutoUpgrade.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\_TerrainAutoUpgrade\NewLayer 1.terrainlayer
+      fullPath: D:\Game Dev\10 Nopember\Assets\_TerrainAutoUpgrade\NewLayer 1.terrainlayer
+      projectPath: Assets\_TerrainAutoUpgrade\NewLayer 1.terrainlayer
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\_TerrainAutoUpgrade\NewLayer 1.terrainlayer.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\_TerrainAutoUpgrade\NewLayer 1.terrainlayer.meta
+      projectPath: Assets\_TerrainAutoUpgrade\NewLayer 1.terrainlayer.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\_TerrainAutoUpgrade\NewLayer.terrainlayer
+      fullPath: D:\Game Dev\10 Nopember\Assets\_TerrainAutoUpgrade\NewLayer.terrainlayer
+      projectPath: Assets\_TerrainAutoUpgrade\NewLayer.terrainlayer
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\_TerrainAutoUpgrade\NewLayer.terrainlayer.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\_TerrainAutoUpgrade\NewLayer.terrainlayer.meta
+      projectPath: Assets\_TerrainAutoUpgrade\NewLayer.terrainlayer.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\_TerrainAutoUpgrade\Terrain.mat
+      fullPath: D:\Game Dev\10 Nopember\Assets\_TerrainAutoUpgrade\Terrain.mat
+      projectPath: Assets\_TerrainAutoUpgrade\Terrain.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\_TerrainAutoUpgrade\Terrain.mat.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\_TerrainAutoUpgrade\Terrain.mat.meta
+      projectPath: Assets\_TerrainAutoUpgrade\Terrain.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\_TerrainAutoUpgrade\layer_Grass ER2023054508611406.terrainlayer
+      fullPath: D:\Game Dev\10 Nopember\Assets\_TerrainAutoUpgrade\layer_Grass ER2023054508611406.terrainlayer
+      projectPath: Assets\_TerrainAutoUpgrade\layer_Grass ER2023054508611406.terrainlayer
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\_TerrainAutoUpgrade\layer_Grass ER2023054508611406.terrainlayer.meta
+      fullPath: D:\Game Dev\10 Nopember\Assets\_TerrainAutoUpgrade\layer_Grass ER2023054508611406.terrainlayer.meta
+      projectPath: Assets\_TerrainAutoUpgrade\layer_Grass ER2023054508611406.terrainlayer.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: e7aae56f2b1600cc9a11e190c49d8fbc6d52b851
+    mergeA: 
+    mergeB: 
+    authorName: Habib Yahya
+    authorEmail: nmh.habib.y@gmail.com
+    commitEmail: nmh.habib.y@gmail.com
+    commitName: Habib Yahya
+    summary: Initial commit
+    description: 
+    timeString: 2019-09-20T06:34:47.000+07:00
+    commitTimeString: 2019-09-20T06:34:47.000+07:00
+    changes:
+    - path: .gitattributes
+      fullPath: D:\Game Dev\10 Nopember\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: D:\Game Dev\10 Nopember\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\.gitignore
+      fullPath: D:\Game Dev\10 Nopember\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
